@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Examen IAX
+## Pedro Díaz Fornet
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+*Los* **contenidos** que hemos visto en esta primera evaluación son:
+* MarkDown
+* Git
+* GitHub
 
-## Commands
+También hemos visto como crear página web a partir de documentos markdown utilizando Mkdocs, el cual tiene las siguientes instrucciones:
+1.- Serve
+2.- Build
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+Lo que pone a continuación es un trozo de código:  
+	`$ apt update`  
+	`$ apt upgrade`
 
-## Project layout
+Toda la documentación lo tenemos subida en [Aules](https://aules.edu.gva.es/fp/mod/assign/view.php?id=3613187)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[aulesimg](/docs/images/aules.png)
