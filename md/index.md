@@ -1,14 +1,14 @@
 # Examen IAX
 ## Pedro Díaz Fornet
 
-*Los* **contenidos** que hemos visto en esta primera evaluación son:
-* MarkDown
-* Git
-* GitHub
+*Los* **contenidos** que hemos visto en esta primera evaluación son:  
+* MarkDown  
+* Git  
+* GitHub  
 
-También hemos visto como crear página web a partir de documentos markdown utilizando Mkdocs, el cual tiene las siguientes instrucciones:
-1.- Serve
-2.- Build
+También hemos visto como crear página web a partir de documentos markdown utilizando Mkdocs, el cual tiene las siguientes instrucciones:  
+1.- Serve  
+2.- Build  
 
 Lo que pone a continuación es un trozo de código:  
 	`$ apt update`  
