@@ -1,2 +1,4 @@
 site_name: My Docs
 theme: mkdocs
+docs_dir: 'md'
+site_dir: 'docs'
